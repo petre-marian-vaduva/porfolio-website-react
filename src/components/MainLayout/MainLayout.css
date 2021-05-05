@@ -1,4 +1,6 @@
 .MainLayout{
+    display: flex;
     background-color: aqua;
     flex: 8;
+    padding: 20px;
 }

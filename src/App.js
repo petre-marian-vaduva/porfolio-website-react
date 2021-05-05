@@ -6,8 +6,9 @@ function App() {
 
   return (
     <div className='app'>
-        <Navbar></Navbar>
-        <MainLayout></MainLayout>
+        <h1>Videos</h1>
+        <Navbar />
+        <MainLayout />
     </div>
   );
 }
